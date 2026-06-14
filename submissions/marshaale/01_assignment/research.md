@@ -30,7 +30,23 @@ eg. You have sales data, days and number of sales each day.
 A machine needs data to learn and make predictions, so every data is raw and messy.
 `Does machine needs raw/messy data? Usually, no.`, this is where data science comes in before training a machine learning model, the data must be cleaned and prepared.
 
+## 2 Data Science lifecycle
+
+- `Problem Definition`
+- `Data Collection`
+- `Data Cleaning`
+- `Exploratory Data Analysis`
+- `Feature Engineering`
+
+#### Here is where Machine Learning Stage comes in. because the machine learning models needs well prepared quality data for modeling and evaluation.
+
+- `Modeling`
+- `Evaluation`
+
+- `Communication & Deployment`
+
 # References
 
 - [Data Science](https://www.ibm.com/think/topics/data-science)
 - [Machine Learning](https://www.ibm.com/think/topics/machine-learning)
+- [DS Lifecycle](https://public.dhe.ibm.com/software/data/sw-library/analytics/data-science-lifecycle/)
