@@ -79,7 +79,7 @@ Without this division, a model might only memorize data (overfitting) and fail i
 In advanced practices, a **validation set** or **cross-validation** is introduced to fine-tune models before final testing.
 
 ---
-
+ 
 ## 6. Case Study: Machine Learning in Healthcare
 
 **Title:** Predicting Sepsis in Intensive Care Units using Machine Learning
