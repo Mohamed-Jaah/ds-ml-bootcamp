@@ -175,3 +175,7 @@ The SVM scored highest. All five models showed that basic clinical data is enoug
 16. Iparraguirre-Villanueva et al. (2023). *ML for early detection of Type 2 Diabetes.* Diagnostics, 13(14), 2383. https://doi.org/10.3390/diagnostics13142383
 
 ---
+
+
+*Submitted for DS-ML Bootcamp — Assignment 1*
+*Due: Saturday, June 15, 2026*
