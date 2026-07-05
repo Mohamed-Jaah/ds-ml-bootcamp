@@ -1,5 +1,3 @@
-Here is your complete **Reflection Paper** formatted beautifully in Markdown. You can copy and paste this directly into a new Markdown cell or file for your assignment submission.
-
 ---
 
 # Part C — Reflection Paper: Loan Approval Classification
